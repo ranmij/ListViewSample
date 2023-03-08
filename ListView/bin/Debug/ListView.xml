@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ListView
+</name>
+</assembly>
+<members>
+<member name="T:ListView.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.AMResult">
+<summary>
+  Looks up a localized string similar to Adult Man.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.AWResult">
+<summary>
+  Looks up a localized string similar to Adult Woman.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.EmptyFields">
+<summary>
+  Looks up a localized string similar to Please fill the empty fields..
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.FemaleGender">
+<summary>
+  Looks up a localized string similar to Female.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.InvalidDeleteText">
+<summary>
+  Looks up a localized string similar to Please select a row to delete..
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.InvalidDeleteTitle">
+<summary>
+  Looks up a localized string similar to Delete Error!.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.InvalidUpdateText">
+<summary>
+  Looks up a localized string similar to Please select a row to update..
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.InvalidUpdateTitle">
+<summary>
+  Looks up a localized string similar to Update Error!.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.MaleGender">
+<summary>
+  Looks up a localized string similar to Male.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.OMResult">
+<summary>
+  Looks up a localized string similar to Old Man.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.OWResult">
+<summary>
+  Looks up a localized string similar to Old Woman.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.YLAResult">
+<summary>
+  Looks up a localized string similar to Young Lady Adult.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.YLResult">
+<summary>
+  Looks up a localized string similar to Young Lady.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.YMAResult">
+<summary>
+  Looks up a localized string similar to Young Man Adult.
+</summary>
+</member>
+<member name="P:ListView.My.Resources.Resources.YMResult">
+<summary>
+  Looks up a localized string similar to Young Man.
+</summary>
+</member>
+</members>
+</doc>

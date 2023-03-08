@@ -1,0 +1,14 @@
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.vbproj.AssemblyReference.cache
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.vbproj.SuggestedBindingRedirects.cache
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.ListViewWindow.resources
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.Resources.resources
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.vbproj.GenerateResource.cache
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.vbproj.CoreCompileInputs.cache
+D:\SCHOOL FILES\ListView\ListView\bin\Debug\ListView.exe.config
+D:\SCHOOL FILES\ListView\ListView\bin\Debug\ListView.exe
+D:\SCHOOL FILES\ListView\ListView\bin\Debug\ListView.pdb
+D:\SCHOOL FILES\ListView\ListView\bin\Debug\ListView.xml
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.exe
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.xml
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.pdb
+D:\SCHOOL FILES\ListView\ListView\obj\Debug\ListView.MainWindow.resources
